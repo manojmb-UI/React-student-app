@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "johnd0e@example.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": "c1d2",
+      "firstName": "Manoj",
+      "lastName": "Balamurugan",
+      "email": "manobala258@gmail.com",
+      "password": "Manoj@2001",
+      "confirmPassword": "Manoj@2001"
+    },
+    {
+      "id": "6ad4",
+      "firstName": "Sathish",
+      "lastName": "Sakthivel",
+      "email": "sathish06@gmail.com",
+      "password": "Sathish@2001",
+      "confirmPassword": "Sathish@2001"
+    },
+    {
+      "id": "6aa3",
+      "firstName": "sugumar",
+      "lastName": "muthusamy",
+      "email": "sugumar@gmail.com",
+      "password": "sugumar@12345",
+      "confirmPassword": "sugumar@12345"
+    },
+    {
+      "id": "b23c",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@gmail.co",
+      "password": "123456",
+      "confirmPassword": "123456"
+    }
+  ],
+  "students": [
+    {
+      "id": "a102",
+      "studentName": "Priya Sharma",
+      "email": "priyasharma@gmail.com",
+      "phoneNumber": "9876543211",
+      "class": "XI",
+      "rollNo": "2",
+      "gender": "Female",
+      "dob": "2009-08-21",
+      "address": "T Nagar, Chennai",
+      "status": "Active"
+    },
+    {
+      "id": "a103",
+      "studentName": "Ravi Shankar",
+      "email": "ravishankar@gmail.com",
+      "phoneNumber": "9876543212",
+      "class": "X",
+      "rollNo": "3",
+      "gender": "Male",
+      "dob": "2010-02-10",
+      "address": "Madurai Main Road",
+      "status": "Active"
+    },
+    {
+      "id": "a104",
+      "studentName": "Sneha Iyer",
+      "email": "sneha.iyer@gmail.com",
+      "phoneNumber": "9876543213",
+      "class": "IX",
+      "rollNo": "4",
+      "gender": "Female",
+      "dob": "2011-01-05",
+      "address": "Alwarpet, Chennai",
+      "status": "Active"
+    },
+    {
+      "id": "a105",
+      "studentName": "Karthik Raj",
+      "email": "karthikraj@gmail.com",
+      "phoneNumber": "9876543214",
+      "class": "VIII",
+      "rollNo": "5",
+      "gender": "Male",
+      "dob": "2011-07-18",
+      "address": "Salem Bus Stand",
+      "status": "Inactive"
+    },
+    {
+      "id": "a106",
+      "studentName": "Divya Lakshmi",
+      "email": "divyalakshmi@gmail.com",
+      "phoneNumber": "9876543215",
+      "class": "XII",
+      "rollNo": "6",
+      "gender": "Female",
+      "dob": "2009-11-30",
+      "address": "Coimbatore North",
+      "status": "Active"
+    },
+    {
+      "id": "a107",
+      "studentName": "Suresh Babu",
+      "email": "sureshbabu@gmail.com",
+      "phoneNumber": "9876543216",
+      "class": "XI",
+      "rollNo": "7",
+      "gender": "Male",
+      "dob": "2009-06-14",
+      "address": "Erode Town",
+      "status": "Active"
+    },
+    {
+      "id": "a108",
+      "studentName": "Anitha Devi",
+      "email": "anithadevi@gmail.com",
+      "phoneNumber": "9876543217",
+      "class": "X",
+      "rollNo": "8",
+      "gender": "Female",
+      "dob": "2010-03-22",
+      "address": "Vellore Main Road",
+      "status": "Inactive"
+    },
+    {
+      "id": "a109",
+      "studentName": "Balaji Mohan",
+      "email": "balajimohan@gmail.com",
+      "phoneNumber": "9876543218",
+      "class": "IX",
+      "rollNo": "9",
+      "gender": "Male",
+      "dob": "2011-09-09",
+      "address": "Trichy Rockfort",
+      "status": "Active"
+    },
+    {
+      "id": "a110",
+      "studentName": "Kavya Nair",
+      "email": "kavyanair@gmail.com",
+      "phoneNumber": "9876543219",
+      "class": "VIII",
+      "rollNo": "10",
+      "gender": "Female",
+      "dob": "2011-12-19",
+      "address": "Palakkad Road",
+      "status": "Active"
+    },
+    {
+      "id": "a111",
+      "studentName": "Naveen Kumar",
+      "email": "naveenkumar@gmail.com",
+      "phoneNumber": "9876543220",
+      "class": "XII",
+      "rollNo": "11",
+      "gender": "Male",
+      "dob": "2009-05-03",
+      "address": "Hosur Industrial Area",
+      "status": "Active"
+    },
+    {
+      "id": "a112",
+      "studentName": "Meena Rani",
+      "email": "meenarani@gmail.com",
+      "phoneNumber": "9876543221",
+      "class": "XI",
+      "rollNo": "12",
+      "gender": "Female",
+      "dob": "2009-10-28",
+      "address": "Krishnagiri Town",
+      "status": "Inactive"
+    },
+    {
+      "id": "a113",
+      "studentName": "Ajith Kumar",
+      "email": "ajithkumar@gmail.com",
+      "phoneNumber": "9876543222",
+      "class": "X",
+      "rollNo": "13",
+      "gender": "Male",
+      "dob": "2010-01-15",
+      "address": "Kanchipuram Temple Street",
+      "status": "Active"
+    },
+    {
+      "id": "a114",
+      "studentName": "Pooja Singh",
+      "email": "poojasingh@gmail.com",
+      "phoneNumber": "9876543223",
+      "class": "IX",
+      "rollNo": "14",
+      "gender": "Female",
+      "dob": "2011-04-08",
+      "address": "Tambaram East",
+      "status": "Active"
+    },
+    {
+      "id": "a115",
+      "studentName": "Vigneshwaran R",
+      "email": "vigneshwaran@gmail.com",
+      "phoneNumber": "9876543224",
+      "class": "VIII",
+      "rollNo": "15",
+      "gender": "Male",
+      "dob": "2011-06-27",
+      "address": "Kallakurichi Main Road",
+      "status": "Active"
+    }
+  ]
+}

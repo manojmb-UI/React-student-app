@@ -109,7 +109,7 @@ function StudentList() {
                 rows={rows}
                 columns={columns}
                 pageSizeOptions={[5, 10]}
-                checkboxSelection
+                
                 initialState={{
                     pagination: {
                         paginationModel: { page: 0, pageSize: 5 }
